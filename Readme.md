@@ -8,4 +8,4 @@ Ajustando para stash
 
 Criar nova versão
 
-Colocando revert
+Subir para reverter
