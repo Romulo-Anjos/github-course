@@ -7,3 +7,5 @@ Criando uma nova versao
 Ajustando para stash
 
 Criar nova versão
+
+Colocando revert
